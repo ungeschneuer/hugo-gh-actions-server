@@ -1,4 +1,4 @@
-# hugo-gh-actions-server
+# Github Action for Deploying HUGO website on own server
 A Github Action to deploy a hugo website to a server via SSH. 
 
 
